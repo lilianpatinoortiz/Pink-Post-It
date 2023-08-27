@@ -1,7 +1,17 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "Note 1",
+        "text": "My note",
+        "note_id": "302f493e-7144-49e5-adc6-cbe040e11a6b"
     },
-    {}
+    {
+        "title": "Note 2",
+        "text": "hello its me",
+        "note_id": "16a59f8a-e6ae-4030-a422-a7a7a0385d5b"
+    },
+    {
+        "title": "khjnkbb",
+        "text": "lhnkbgujkbk",
+        "note_id": "604f1b8c-551d-44c6-a887-1e90d75b1a81"
+    }
 ]
