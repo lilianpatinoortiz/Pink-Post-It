@@ -54,7 +54,7 @@ You will be able to perform CRUD actions for your notes, try creating, updating,
 
 This challenge does not contain specific test files, but below you can find a gif with the flow of the challenge functioning correctly.
 
-![test](assets/img/test.gif)
+![test](assets/img/gif.gif)
 
 ## Contributing
 
